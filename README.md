@@ -11,17 +11,27 @@ Handling missing values
 Tool Used: SSMS 
 
 Questions:
-What's the age distribution in the company?
-What's the gender breakdown in the company?
-How does gender vary across departments and job titles?
-What's the race distribution in the company?
-What's the average length of employment in the company?
-Which department has the highest turnover rate?
-What is the tenure distribution for each department?
-How many employees work remotely for each department?
-What's the distribution of employees across different states?
-How are job titles distributed in the company?
-How have employee hire counts varied over time?
+1) What's the age distribution in the company?
+
+2) What's the gender breakdown in the company?
+
+3) How does gender vary across departments and job titles?
+
+4) What's the race distribution in the company?
+
+5) What's the average length of employment in the company?
+
+6) Which department has the highest turnover rate?
+
+7) What is the tenure distribution for each department?
+
+8) How many employees work remotely for each department?
+
+9) What's the distribution of employees across different states?
+
+10) How are job titles distributed in the company?
+
+11) How have employee hire counts varied over time?
 
 Findings:
 There are more male employees than female or non-conforming employees.
